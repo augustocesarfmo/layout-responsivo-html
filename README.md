@@ -27,7 +27,7 @@ $ cd layout-responsivo-html
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte a LICENÇA para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/augustocesarfmo/layout-responsivo-html/blob/main/LICENSE.md) para obter mais informações.
 
 ---
 
