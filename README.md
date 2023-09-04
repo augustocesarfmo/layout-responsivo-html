@@ -1,6 +1,6 @@
 # Layout de site responsivo
 
-Este projeto teve como objetivo aprimorar os seguintes conheceimentos através de um projeto prático de um site: a) Tags semânticas HTML; b) CSS Grid; c) CSS Flexbox; d) Media Queries.
+Este projeto teve como objetivo aprimorar os conheceimentos de HTML e CSS através de um projeto prático utilizando os seguintes conceitos: a) Tags semânticas HTML; b) CSS Grid; c) CSS Flexbox; d) Media Queries.
 
 <img src="https://raw.githubusercontent.com/augustocesarfmo/layout-responsivo-html/main/assets/print.png" width="100%">
 
