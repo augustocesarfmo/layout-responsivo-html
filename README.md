@@ -3,7 +3,7 @@
 Este projeto teve como objetivo aprimorar os conheceimentos de HTML e CSS através de um projeto prático utilizando os seguintes conceitos: a) Tags semânticas HTML; b) CSS Grid; c) CSS Flexbox; d) Media Queries para responsividade.
 
 ## 👀 Demo
-Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://augustocesarfmo.github.io/layout-responsivo-html/){:target="_blank"}.<a href="https://augustocesarfmo.github.io/layout-responsivo-html/" target="_blank">clicando aqui</a>
+Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://augustocesarfmo.github.io/layout-responsivo-html/).
 
 <img src="https://raw.githubusercontent.com/augustocesarfmo/layout-responsivo-html/main/assets/print.png" width="100%">
 
