@@ -28,9 +28,6 @@ $ git clone https://github.com/augustocesarfmo/layout-responsivo-html.git
 
 # Acessando o repositório
 $ cd layout-responsivo-html
-
-# Executando o projeto
-$ Live Server
 ```
 
 ## 📝 Licença
