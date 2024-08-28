@@ -18,7 +18,9 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 
 ## ℹ️ Executando
 
-Para clonar e executar este projeto, execute na sua linha de comando:
+Para clonar e executar este projeto, você precisará de [Git](https://git-scm.com) instalado no seu computador.
+
+Na sua linha de comando execute:
 
 ```bash
 # Clonando este repositório
@@ -26,6 +28,9 @@ $ git clone https://github.com/augustocesarfmo/layout-responsivo-html.git
 
 # Acessando o repositório
 $ cd layout-responsivo-html
+
+# Executando o projeto
+$ Live Server
 ```
 
 ## 📝 Licença
